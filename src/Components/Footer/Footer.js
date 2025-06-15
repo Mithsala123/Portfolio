@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import logo3 from '../../../src/Image/logo3.png';
+import logo from '../../Image/logo.jpg';
 import { FaUser, FaFacebookF, FaLinkedinIn, FaGithub, FaInstagram } from 'react-icons/fa';
 
 export default function Footer() {
@@ -8,8 +8,8 @@ export default function Footer() {
     <div className='footer'>
       <div className='footer-top'>
         <div className='footer-top-left'>
-          <img src={logo3} alt="logo" clssName="logo"/>
-          <p>I am a fullstack developer passionate about building modern and user-friendly web applications.</p>
+          <img src={logo} alt="logo" clssName="logo"/>
+          <p>I'm a Front-End Developer passionate about building modern and user-friendly web applications.</p>
         </div>
 
         <div className='footer-top-right'>
@@ -22,18 +22,18 @@ export default function Footer() {
       </div>
 
       <div className="footer-socials">
-        <a href="https://www.facebook.com/chiranjali kodithuwakku" target="_blank" rel="noopener noreferrer"><FaFacebookF /></a>
-        <a href="https://www.linkedin.com/in/chiranjali-kodithuwakku-bb9539306/" target="_blank" rel="noopener noreferrer"><FaLinkedinIn /></a>
-        <a href="https://github.com/chiranjali23" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+        <a href="https://www.facebook.com/piyumi.mithsala" target="_blank" rel="noopener noreferrer"><FaFacebookF /></a>
+        <a href="https://www.linkedin.com/in/piyumi-mithsala-59612a237/" target="_blank" rel="noopener noreferrer"><FaLinkedinIn /></a>
+        <a href="https://github.com/Mithsala123" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
         
       </div>
 
       <hr className='footer-divider' />
 
       <div className='footer-bottom'>
-        <p className='footer-bottom-left'>© 2023 Chiranjali. All rights reserved.</p>
+        <p className='footer-bottom-left'>© 2023 Piyumi. All rights reserved.</p>
         <p className='footer-bottom-center'>Terms of Service | Privacy Policy</p>
-        <p className='footer-bottom-right'>Contact me: chiranjali89@gmail.com</p>
+        <p className='footer-bottom-right'>Contact me: piyumisudusinghe02@gmail.com</p>
       </div>
     </div>
   );

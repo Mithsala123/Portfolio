@@ -41,15 +41,15 @@ export default function Contact() {
                 <p>If you have any questions, feedback, or just want to say hello, don't hesitate to get in touch!</p>
 
                 <div className="contact-details">
-                    <FaEnvelope className='icon'/><p>chiranjali89@gmail.com</p>
+                    <FaEnvelope className='icon'/><p>piyumisudusinghe02@gmail.com</p>
                 </div>
 
                 <div className="contact-details">
-                    <FaPhoneAlt className='icon'/><p>+94 767596214 / +94 774969929 </p>
+                    <FaPhoneAlt className='icon'/><p>+94 719286626 / +94 774969929 </p>
                 </div>
 
                 <div className="contact-details">
-                    <MdLocationOn className='icon'/><p>"Tashila Niwasa", Wedagedara,Thibbotuwawa,Akuressa</p>
+                    <MdLocationOn className='icon'/><p>Suduwala,Mapalana,Kamburupitiya</p>
                 </div>
             </div>
 
