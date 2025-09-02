@@ -8,7 +8,7 @@ export default function About() {
             <div className='about-text'>
             <h1>About Me</h1>
             <p>
-                I’m an enthusiastic and dedicated Front-End Developer passionate about crafting responsive and interactive user interfaces using HTML, CSS, JavaScript, and React. 
+                I’m an enthusiastic and dedicated Quality Assurance Engineer passionate about crafting responsive and interactive user interfaces using HTML, CSS, JavaScript, and React. 
                 I focus on building clean, efficient, and user-friendly web experiences. At the same time, I’m exploring backend technologies like Node.js and Express to broaden my skills and understand the full web development process. 
                 My goal is to create complete digital solutions while continuously improving my skills through hands-on projects and real-world challenges. through hands-on projects and real-world challenges.
             </p>
