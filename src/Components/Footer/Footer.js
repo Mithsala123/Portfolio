@@ -1,7 +1,7 @@
 import React from 'react';
 import './Footer.css';
 import logo from '../../Image/logo.jpg';
-import { FaUser, FaFacebookF, FaLinkedinIn, FaGithub, FaInstagram } from 'react-icons/fa';
+import { FaUser, FaFacebookF, FaLinkedinIn, FaGithub } from 'react-icons/fa';
 
 export default function Footer() {
   return (
